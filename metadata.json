@@ -1,0 +1,5 @@
+{
+  "name": "Fashion Finder",
+  "description": "Describe your clothing style in natural language and find the cheapest outfits with the best reviews on Google Shopping.",
+  "requestFramePermissions": []
+}
